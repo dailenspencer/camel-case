@@ -29777,6 +29777,7 @@
 	      return _react2.default.createElement(
 	        'div',
 	        null,
+	        _react2.default.createElement(_Nav2.default, null),
 	        _react2.default.createElement(_PulseGrid2.default, null)
 	      );
 	    }
